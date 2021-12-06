@@ -1,0 +1,13 @@
+# logger options
+batch_size: 32
+num_epochs: 30
+learning_rate: 0.01
+channels: [1, 2, 3]
+method: 'torchxray'
+feature_extract: False
+
+#path to dataset
+path_images_train: 'covidx/images/train'
+path_images_val: 'covidx/images/test'
+masks_train: 'covidx/masks/train'
+masks_val: 'covidx/masks/test'
