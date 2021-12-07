@@ -6,6 +6,8 @@ Classification algorithm for thoracic lung X-Rays, wich diferenciates images bet
 2. Normal
 3. Covid-19
 
+The dataset used was COVIDx, wich can be found in this link: https://github.com/lindawangg/COVID-Net
+
 How to run:
 
 ```
