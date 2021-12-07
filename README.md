@@ -1,6 +1,6 @@
 # Lung-Desease-Classification-with-Pytorch
 
-Classification algorithm for thoracic lung X-Rays, wich diferenciates images between the following classes:
+Classification algorithm for thoracic lung X-Rays, which diferenciates images between the following classes:
 
 1. Pneumonia
 2. Normal
